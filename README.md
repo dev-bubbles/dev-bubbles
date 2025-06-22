@@ -25,7 +25,7 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Doug-devv&show_icons=true&theme=radical" alt="Bubbles's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-bubbles&show_icons=true&theme=radical" alt="Bubbles's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-devv&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bubbles&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
