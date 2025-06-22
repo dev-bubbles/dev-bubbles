@@ -25,7 +25,7 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Doug-devv&show_icons=true&theme=radical" alt="Doug's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Doug-devv&show_icons=true&theme=radical" alt="Bubbles's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-devv&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
