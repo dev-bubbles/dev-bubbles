@@ -13,17 +13,6 @@
 <h2 align="center">💻 Tech Stack & GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
-  <img width="22" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" height="50" alt="Python logo" />
-  <img width="22" />
-</div>
-
-<div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=dev-bubbles&show_icons=true&theme=radical" alt="Bubbles's GitHub Stats" />
   <br />
